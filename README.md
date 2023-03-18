@@ -8,5 +8,7 @@ If there are any issues with the campaigns, please reach out to me on Discord in
 Installation Steps:
 
 1: Download the most current release of DOTmod available from https://github.com/DotModGroup/ColdWaters-DotMod/releases
+
 2: Download the most current DOTmod version here which will be updated as new DOTmod versions come through
+
 3: Replace the installed version of DOTmod with the downloaded version and replace any files
