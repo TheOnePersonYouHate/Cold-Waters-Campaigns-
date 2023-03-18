@@ -12,5 +12,3 @@ Installation Steps:
 2: Download the most current DOTmod version here which will be updated as new DOTmod versions come through
 
 3: Replace the installed version of DOTmod with the downloaded version and replace any files
-
-There will be an experimental campaign included where nothing has been changed except you are playing as 2004 RU Federation using assets from the 2004 NATO campaign. There are some issues in that campaign with vessel loading but if you skip them to continue, you will be able to continue. 
